@@ -46,8 +46,3 @@ This dashboard uses the (cited below) powerful HuggingFace Accellerated Inferenc
 
 https://saintjavelin.com
 
-https://ukraineaidops.org/donate/
-
-https://osintukraine.com
-
-Or the Georgian Legion Directly
